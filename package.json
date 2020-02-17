@@ -1,0 +1,22 @@
+{
+  "name": "qrcodegenertion",
+  "version": "1.0.0",
+  "description": "code for generating qr code",
+  "main": "generateqrcode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VikramAditya10/QrCodeGenertion.git"
+  },
+  "author": "vikram aditya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VikramAditya10/QrCodeGenertion/issues"
+  },
+  "homepage": "https://github.com/VikramAditya10/QrCodeGenertion#readme",
+  "dependencies": {
+    "qrcode": "^1.4.4"
+  }
+}
